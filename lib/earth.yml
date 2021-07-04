@@ -17,7 +17,7 @@ satellites:
   - Moon
 mean_radius_km: 6371.0
 equatorial_radius_km: 6378.137
-polar_radius_km:	6356.752
+polar_radius_km: 6356.752
 circumference_km: 40075.017
 surface_area_km2:
   land: 148940000
