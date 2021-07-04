@@ -22,7 +22,7 @@ circumference_km: 40075.017
 surface_area_km2:
   land: 148940000
   water: 361132000
-volume_km3:	1.08321×1012
+volume_km3: 1.08321×1012
 mass_kg: 5.97237×1024
 mean_density_gcm3: 5.514
 surface_gravity_ms2: 9.80665
