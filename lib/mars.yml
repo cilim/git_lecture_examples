@@ -12,8 +12,8 @@ satellites:
   - Phobos
   - Deimos
 mean_radius_km: 3389.5
-volume_km3:	1.6318×1011
-mass_kg: 6.4171×1023
+volume_km3:	1.6318×10^11
+mass_kg: 6.4171×10^23
 mean_density_gcm3: 3.9335
 surface_gravity_g: 0.3794
 escape_velocity_kms: 5.027

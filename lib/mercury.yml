@@ -10,8 +10,8 @@ mean_anomaly:	174.796
 argument_of_perihelion:	29.124
 satellites: []
 mean_radius_km: 2439.7
-volume_km3:	6.083×1010
-mass_kg: 3.3011×1023
+volume_km3:	6.083×10^10
+mass_kg: 3.3011×10^23
 mean_density_gcm3: 5.427
 surface_gravity_g: 0.38
 escape_velocity_kms: 4.25
