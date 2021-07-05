@@ -17,7 +17,7 @@ satellites:
   - Moon
 mean_radius_km: 6371.0
 volume_km3: 1.08321×10^12
-mass_kg: 5.97237×10^24
+mass_kg: 5.97237×10^22
 mean_density_gcm3: 5.514
 surface_gravity_g: 1
 escape_velocity_kms: 11.186
